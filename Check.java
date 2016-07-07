@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-@SuppressWarnings("resource")
 public class Check {
 	{
-		 
+		 public static void main (String[] args)
 		   {		
 			int temp;
 			boolean isPrime=true;
